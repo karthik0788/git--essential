@@ -1,0 +1,28 @@
+h1{
+    background-color:black;
+    text-align: center;
+    padding: 10px;
+    font-size: medium;
+    color: chartreuse;
+    border-radius: 25px;
+    letter-spacing: 5px;
+
+
+}
+div{
+    width: 400px;
+    height: none;
+    background-color: chocolate;
+    border: 50px;
+    text-align: center ;
+    border-radius: 10px;
+    border-color:rgb(129, 7, 31);
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,50%);
+}
+body{
+    background-image: url("krtk.jfif");
+    border-image-repeat: repeat;
+}
