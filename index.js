@@ -7,6 +7,6 @@
 myObj.test="test"
 myObj={first:"karthik",last:"gouda"
 
-}
-myObj.first="john";
-console.log(myObj)
+// }
+// myObj.first="john";
+// console.log(myObj)
